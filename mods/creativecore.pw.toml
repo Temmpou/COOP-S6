@@ -1,6 +1,6 @@
 name = "CreativeCore"
 filename = "CreativeCore_FORGE_v2.11.10_mc1.20.1.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

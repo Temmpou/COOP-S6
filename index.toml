@@ -2109,7 +2109,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "d83eb89704c6f0ba75c5e25d9741a4d9eba52c5cbc54aaa04ca9b3352ebe9b86"
+hash = "f4d100eb5d2a786467d05107422cfc837d1a009b034902b5d7a526f14901a4d6"
 metafile = true
 
 [[files]]
@@ -2404,7 +2404,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "5a18e37b4b35c8bdf251f0fe90c0a24a1f27ca829acae021e5e426d80f1f5528"
+hash = "31ae709ead04455fab16615162995f15bb896e7e51250e548924c30ff7d63d0e"
 metafile = true
 
 [[files]]
