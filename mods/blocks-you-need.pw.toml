@@ -1,0 +1,13 @@
+name = "Blocks You Need - Industrial, Steampunk, Laboratory, Space & more!"
+filename = "blocksyouneed_luna-1.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3398daa54d67f91556a09610b90c71ad67a36c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4867859
+project-id = 925718

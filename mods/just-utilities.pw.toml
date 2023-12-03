@@ -1,0 +1,13 @@
+name = "Just Utilities"
+filename = "justutilities-forge-1.20.1-0.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "250305dfdf7ae9e7057dbe02620e67567be29c3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4840206
+project-id = 923100

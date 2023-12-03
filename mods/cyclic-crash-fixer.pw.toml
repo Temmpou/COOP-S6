@@ -1,0 +1,13 @@
+name = "Cyclic Crash Fixer"
+filename = "cyclic-crash-fixer-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FXQwZEjf/versions/ghUANRYC/cyclic-crash-fixer-1.0.jar"
+hash-format = "sha1"
+hash = "8f86fd502e95ed4f051e672c7ab8198c06489b47"
+
+[update]
+[update.modrinth]
+mod-id = "FXQwZEjf"
+version = "ghUANRYC"
