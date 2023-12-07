@@ -10,10 +10,6 @@ hash = "96f9983d86fa756ca973306fca579288302f26482e2de6b69d4845e24f03ffb6"
 metafile = true
 
 [[files]]
-file = "mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar"
-hash = "bea2640c4afeb5231362a756d886ca4f246c7951175c91348272b3ce5d483bae"
-
-[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "936b52bfa95f34caeae04163b39a7dd232e83449405b7fb76976841d5d6ad6ff"
 metafile = true
@@ -36,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "6b2d9d8f2a3f9b34289d9a8f96722307d9decdfbf5121c468b76238d240a91f8"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
 metafile = true
 
 [[files]]
@@ -494,6 +495,11 @@ hash = "740b7eb6b14269b52ea93e294b18a1d9145e9ebdea10689d781487233272275b"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "230994ac252bfcd9c8a2430fa33110f943e729974d96e339e9d98286adede543"
+metafile = true
+
+[[files]]
 file = "mods/faster-ladder-climbing.pw.toml"
 hash = "0639428f4c47ca067f5265aa40c55e19fd9ad10337b9b00524b81789f247a9ff"
 metafile = true
@@ -549,6 +555,11 @@ hash = "9db3363456ac656295f29604c278b16da1230ba928f96c581c17d17f9c0bbc2f"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "0e0f6b3047cdbfaf9add707ca6d6762c3aef6f4f3de5fdd855a99a23e79a55b3"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "8e341490ab2a2b976251e3670af33638caf5e4137b7b782195451ca50249a5ba"
 metafile = true
@@ -581,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "31ae709ead04455fab16615162995f15bb896e7e51250e548924c30ff7d63d0e"
+metafile = true
+
+[[files]]
+file = "mods/gamemenuremovegfarb.pw.toml"
+hash = "eea9317342e08524705405da75e5c9034a935c70bd0399e826789540025e58d4"
 metafile = true
 
 [[files]]
@@ -689,8 +705,8 @@ hash = "f870c6edf1a9b77328b613247a944b8d3f7586cb132b055a48ac707893dbe3a1"
 metafile = true
 
 [[files]]
-file = "mods/krypton-reforged.pw.toml"
-hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+file = "mods/lazurite.pw.toml"
+hash = "c397996477dbd2c0055f4737422f8882f890afb6084003ec465f34067dbcf4f4"
 metafile = true
 
 [[files]]
@@ -879,6 +895,11 @@ hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
 
 [[files]]
+file = "mods/nerb.pw.toml"
+hash = "0619ad8e332cfb2e068e565ba9adad3bf12286c80afd93f6c90224c89d8375e1"
+metafile = true
+
+[[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "43ff48404322ec170ef9a931bc2f95cc9b488e2834934e2af6c5e0ebebc5fb9c"
 metafile = true
@@ -1061,6 +1082,11 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "74376f10c697d82bd609b3a3fd7dc743da80d17a2bd5de62b7fffc9b17d7a50a"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "cf34eee84a98dea956dc3241e580c0e3003d48da35eafa741e448e13f17714b6"
 metafile = true
 
 [[files]]
@@ -1255,6 +1281,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
 hash = "378752ead54fa58f11f2e231070bfa76d8a310cc3651d231cd861dc8a3303ff6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "131843ce0d9cea505760b3903bc4bbe9b39e9f2ec0e155311c0eaa87f7faa428"
 metafile = true
 
 [[files]]
