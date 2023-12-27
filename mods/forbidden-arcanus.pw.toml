@@ -1,13 +1,13 @@
 name = "Forbidden and Arcanus"
-filename = "forbidden_arcanus-1.20.1-2.2.3.jar"
+filename = "forbidden_arcanus-1.20.1-2.2.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "01a3a413c35887cdb4496914a82aa2ca06a07249"
+hash = "2eb4c5559215419831fd760cd5c9e5cbdb8a55e1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4891727
+file-id = 4957493
 project-id = 309858
