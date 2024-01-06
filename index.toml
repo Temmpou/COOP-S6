@@ -1089,6 +1089,11 @@ hash = "0446406a44e1e70fa30796cfb64e068baedf492c9ee2f186d350f9008c7d14bc"
 metafile = true
 
 [[files]]
+file = "mods/shutdowner.pw.toml"
+hash = "15af47755c7a7cb3af903144b9643225731be3d34ea413cc9e974936a37bbe75"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "5b8044347814e2099c47058c60680376c5acf64f6e87124d1734ae23aeb183fc"
 metafile = true
